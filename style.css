@@ -1,0 +1,28 @@
+* {
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: black;
+}
+#my {
+    color: white;
+}
+#cloud {
+    color: aqua;
+}
+
+h2 {
+    background-color: rebeccapurple;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    font-weight: lighter;
+}
+h3 {
+    background-color: lightskyblue;
+    color: black; 
+    text-align: right;
+    text-decoration: underline;
+    font-weight: lighter;
+}
